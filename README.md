@@ -519,7 +519,7 @@ api-cuci-sepatu/
 
 ## Link Project
 
-- **GitHub Repository**: 
+- **GitHub Repository**: https://github.com/FarrellFausto/responsi_modul1
 - **Live API**: https://responsi-modul1.vercel.app/
 
 ## Author
